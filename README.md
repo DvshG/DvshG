@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Devesh Gangani</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🔭 I’m currently working on **CollabCanvas[https://github.com/DvshG/CollabCanvas]**
+- 🔭 I’m currently working on **Synergy[(https://github.com/DvshG/Synergy)]**
 
 - 📫 How to reach me **deveshgangani1405@gmail.com**
 
