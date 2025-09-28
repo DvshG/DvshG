@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Synergy[https://github.com/DvshG/Synergy]**
 
-- 📫 How to reach me **deveshgangani1405@gmail.com**
+- 📫 How to reach me **ganganidevesh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
